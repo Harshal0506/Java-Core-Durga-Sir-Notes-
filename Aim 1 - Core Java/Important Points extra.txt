@@ -1,0 +1,33 @@
+In inner classes ( anonymous inner class  too ) .class  file is generated lekin lamdas expression work differently .class file is not generated 
+
+And this keyword works differently in both 
+
+Anonymous class is more powerful then lamdas but readability and coding is easier in lamdas.
+
+
+
+
+
+
+
+
+
+
+Collections meh T super String esa khi nhi chalega ( class level support nhi karta )
+? extends super esa chalta h 
+
+
+
+
+
+default and abstract combination is not allowed
+
+no keyword for default modifier
+
+
+
+
+Note return type of method reference need not to match ( as per inheritance rule )  with functional interface abstract method return type. It is designed this way to reduce work of programmer. ( improve reusablity)
+
+
+
